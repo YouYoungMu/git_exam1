@@ -1,5 +1,4 @@
 package git_exam1;
-package git_exam1;
 
 public class World {
 
